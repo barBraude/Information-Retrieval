@@ -1,0 +1,9 @@
+.search_string_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.search_string {
+    font-size: large;
+}

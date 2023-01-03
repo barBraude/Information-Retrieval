@@ -1,0 +1,5021 @@
+{
+    "search": {
+        "searchString": "haifa resturant",
+        "filters": {
+            "rating_range": {
+                "from": 2.5,
+                "to": 5
+            },
+            "minimum_amount_of_ratings": 5,
+            "opening_hours": {
+                "day": 3,
+                "from": "1400",
+                "to": "1600"
+            }
+        }
+    },
+    "amount_of_places": 54,
+    "places": [
+        {
+            "place_id": "ChIJvwzpacq7HRURjjOr68TRKyE",
+            "rating": 4.3,
+            "name": "Havana plus",
+            "amount_of_ratings": 1326,
+            "address": "Sderot Ben Gurion 12, Haifa, 3502206, Israel",
+            "phone_number": "04-851-1919",
+            "maps_url": "https://maps.google.com/?cid=2390234670947840910",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "0100"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "0100"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "0100"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "0100"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "0100"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "0100"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "0100"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 1:00 AM",
+                    "Tuesday: 9:00 AM – 1:00 AM",
+                    "Wednesday: 9:00 AM – 1:00 AM",
+                    "Thursday: 9:00 AM – 1:00 AM",
+                    "Friday: 9:00 AM – 1:00 AM",
+                    "Saturday: 9:00 AM – 1:00 AM",
+                    "Sunday: 9:00 AM – 1:00 AM"
+                ]
+            },
+            "location": [
+                32.8225182,
+                34.9918384
+            ]
+        },
+        {
+            "place_id": "ChIJJ0G7s0y6HRURD8nqUEJMQ1k",
+            "rating": 4.5,
+            "name": "Mifgash Ha'Neviim",
+            "amount_of_ratings": 13,
+            "address": "23, Ha-Nevi'im St 25, Haifa, Israel",
+            "maps_url": "https://maps.google.com/?cid=6432068540524316943",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1030"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1030"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1030"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1030"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1030"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1100"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 10:30 AM – 9:00 PM",
+                    "Tuesday: 10:30 AM – 9:00 PM",
+                    "Wednesday: 10:30 AM – 9:00 PM",
+                    "Thursday: 10:30 AM – 9:00 PM",
+                    "Friday: 11:00 AM – 5:00 PM",
+                    "Saturday: Closed",
+                    "Sunday: 10:30 AM – 9:00 PM"
+                ]
+            },
+            "location": [
+                32.81232159999999,
+                34.9950101
+            ]
+        },
+        {
+            "place_id": "ChIJFWAU5rW7HRURg71pdiFbbHI",
+            "rating": 4.4,
+            "name": "Fattoush",
+            "amount_of_ratings": 5898,
+            "address": "Sderot Ben Gurion 38, Haifa, Israel",
+            "phone_number": "04-852-4930",
+            "maps_url": "https://maps.google.com/?cid=8245065217087225219",
+            "website_url": "https://www.fattoush.co.il/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0830"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:30 AM – 11:00 PM",
+                    "Tuesday: 8:30 AM – 11:00 PM",
+                    "Wednesday: 8:30 AM – 11:00 PM",
+                    "Thursday: 8:30 AM – 11:30 PM",
+                    "Friday: 8:30 AM – 11:30 PM",
+                    "Saturday: 8:30 AM – 11:00 PM",
+                    "Sunday: 8:30 AM – 11:00 PM"
+                ]
+            },
+            "location": [
+                32.8193373,
+                34.9899074
+            ]
+        },
+        {
+            "place_id": "ChIJIYJyO7W7HRURUiM8pcKANU4",
+            "rating": 4.6,
+            "name": "Ein ElWadi Restaurant",
+            "amount_of_ratings": 1123,
+            "address": "Derech HaAtsma'ut 140, Haifa, Israel",
+            "phone_number": "04-855-3353",
+            "maps_url": "https://maps.google.com/?cid=5635552082208236370",
+            "website_url": "https://www.facebook.com/Ein.alwadi/",
+            "opening_hours": {
+                "open_now": false,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1200"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 12:00 – 10:00 PM",
+                    "Tuesday: 12:00 – 10:00 PM",
+                    "Wednesday: 12:00 – 10:00 PM",
+                    "Thursday: 12:00 – 10:00 PM",
+                    "Friday: 12:00 – 10:00 PM",
+                    "Saturday: 12:00 – 7:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "location": [
+                32.8230951,
+                34.9933946
+            ]
+        },
+        {
+            "place_id": "ChIJP5fJPMK7HRURmytHoHgOtdE",
+            "rating": 4.1,
+            "name": "HaHavit",
+            "amount_of_ratings": 1516,
+            "address": "David Elazar St 5, Haifa, Israel",
+            "phone_number": "04-852-2215",
+            "maps_url": "https://maps.google.com/?cid=15111000035959450523",
+            "website_url": "https://israelbusinessguide.com/catalog/hayfa/hahavit/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 11:00 PM",
+                    "Tuesday: 9:00 AM – 11:00 PM",
+                    "Wednesday: 9:00 AM – 11:00 PM",
+                    "Thursday: 9:00 AM – 11:00 PM",
+                    "Friday: 9:00 AM – 11:00 PM",
+                    "Saturday: 9:00 AM – 11:00 PM",
+                    "Sunday: 9:00 AM – 11:00 PM"
+                ]
+            },
+            "location": [
+                32.794135,
+                34.9562265
+            ]
+        },
+        {
+            "place_id": "ChIJA3bG8bW7HRURmMXveXcBRGY",
+            "rating": 4.1,
+            "name": "Garden Restaurant",
+            "amount_of_ratings": 2124,
+            "address": "Sderot Ben Gurion 43, Haifa, Israel",
+            "phone_number": "04-850-7061",
+            "maps_url": "https://maps.google.com/?cid=7369016502943466904",
+            "website_url": "https://gardenrest.co.il/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 11:00 PM",
+                    "Tuesday: 9:00 AM – 11:00 PM",
+                    "Wednesday: 9:00 AM – 11:00 PM",
+                    "Thursday: 9:00 AM – 11:00 PM",
+                    "Friday: 9:00 AM – 12:00 AM",
+                    "Saturday: 9:00 AM – 12:00 AM",
+                    "Sunday: 9:00 AM – 11:00 PM"
+                ]
+            },
+            "location": [
+                32.8192939,
+                34.9901809
+            ]
+        },
+        {
+            "place_id": "ChIJsXn3Bza6HRURJyvXv5qQt8c",
+            "rating": 4.3,
+            "name": "Abu Yossef Restaurant",
+            "amount_of_ratings": 1071,
+            "address": "Sderot HaPalyam 1, Haifa, Israel",
+            "phone_number": "04-866-3723",
+            "maps_url": "https://maps.google.com/?cid=14391130128603622183",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0730"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 7:30 AM – 4:00 PM",
+                    "Tuesday: 7:30 AM – 4:00 PM",
+                    "Wednesday: 7:30 AM – 4:00 PM",
+                    "Thursday: 7:30 AM – 4:00 PM",
+                    "Friday: 7:30 AM – 4:00 PM",
+                    "Saturday: 7:30 AM – 5:00 PM",
+                    "Sunday: 7:30 AM – 4:00 PM"
+                ]
+            },
+            "location": [
+                32.8170793,
+                34.99979140000001
+            ]
+        },
+        {
+            "place_id": "ChIJHbRSqEy6HRUR5HZ4wnO3d3o",
+            "rating": 4.6,
+            "name": "HaMis’ada Shel Ima",
+            "amount_of_ratings": 308,
+            "address": "Ha-Nevi'im St 20, Haifa, Israel",
+            "phone_number": "050-852-6549",
+            "maps_url": "https://maps.google.com/?cid=8824723702667572964",
+            "opening_hours": {
+                "open_now": false,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1900"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1100"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 12:00 – 7:00 PM",
+                    "Tuesday: 12:00 – 7:00 PM",
+                    "Wednesday: 12:00 – 7:00 PM",
+                    "Thursday: 12:00 – 7:00 PM",
+                    "Friday: 11:00 AM��– 4:00 PM",
+                    "Saturday: Closed",
+                    "Sunday: 12:00 – 7:00 PM"
+                ]
+            },
+            "location": [
+                32.8132005,
+                34.9952807
+            ]
+        },
+        {
+            "place_id": "ChIJd4JlHoq7HRURT4a9Vq-ibjE",
+            "rating": 4.6,
+            "name": "שיפודי משאוינא",
+            "amount_of_ratings": 64,
+            "address": "80, Sderot HaMeginim 76, Haifa, Israel",
+            "phone_number": "04-851-1966",
+            "maps_url": "https://maps.google.com/?cid=3561963229254878799",
+            "opening_hours": {
+                "open_now": false,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1200"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 12:00 – 10:00 PM",
+                    "Tuesday: 12:00 – 10:00 PM",
+                    "Wednesday: 12:00 – 10:00 PM",
+                    "Thursday: 12:00 – 10:00 PM",
+                    "Friday: 12:00 – 11:00 PM",
+                    "Saturday: 12:00 – 11:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "location": [
+                32.8202435,
+                34.9934858
+            ]
+        },
+        {
+            "place_id": "ChIJ27Csns6wHRURfXYvPkmqcgM",
+            "rating": 4.3,
+            "name": "Haifa skewers",
+            "amount_of_ratings": 1428,
+            "address": "HaHistadrut Ave 249, Haifa, Israel",
+            "phone_number": "04-810-0280",
+            "maps_url": "https://maps.google.com/?cid=248448161011431037",
+            "website_url": "https://israelbusinessguide.com/catalog/hayfa/haifa_skewers/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 10:00 PM",
+                    "Tuesday: 9:00 AM – 10:00 PM",
+                    "Wednesday: 9:00 AM – 10:00 PM",
+                    "Thursday: 9:00 AM – 10:00 PM",
+                    "Friday: 9:00 AM – 2:00 PM",
+                    "Saturday: Closed",
+                    "Sunday: 9:00 AM – 10:00 PM"
+                ]
+            },
+            "location": [
+                32.80941,
+                35.0675811
+            ]
+        },
+        {
+            "place_id": "ChIJ-SgJC8q7HRURKut-5y2WNYI",
+            "rating": 4.2,
+            "name": "Douzan",
+            "amount_of_ratings": 1647,
+            "address": "Sderot Ben Gurion 35, Haifa, Israel",
+            "phone_number": "053-944-3301",
+            "maps_url": "https://maps.google.com/?cid=9382570522597845802",
+            "website_url": "https://www.rest.co.il/rest/80330935/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1000"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 10:00 AM – 11:00 PM",
+                    "Tuesday: 10:00 AM – 11:00 PM",
+                    "Wednesday: 10:00 AM – 11:00 PM",
+                    "Thursday: 10:00 AM – 11:00 PM",
+                    "Friday: 10:00 AM – 11:00 PM",
+                    "Saturday: 10:00 AM – 11:00 PM",
+                    "Sunday: 10:00 AM – 11:00 PM"
+                ]
+            },
+            "location": [
+                32.8198812,
+                34.9906853
+            ]
+        },
+        {
+            "place_id": "ChIJnyCC9rW7HRURQ8SVUuUl9R4",
+            "rating": 4.3,
+            "name": "Shtroudl",
+            "amount_of_ratings": 3199,
+            "address": "Sderot Ben Gurion 39, Haifa, Israel",
+            "phone_number": "077-700-4312",
+            "maps_url": "https://maps.google.com/?cid=2230730857295234115",
+            "website_url": "https://shtroudl.rest.co.il/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 11:30 PM",
+                    "Tuesday: 9:00 AM – 11:30 PM",
+                    "Wednesday: 9:00 AM – 11:30 PM",
+                    "Thursday: 9:00 AM – 11:30 PM",
+                    "Friday: 9:00 AM – 11:30 PM",
+                    "Saturday: 9:00 AM – 11:30 PM",
+                    "Sunday: 9:00 AM – 11:30 PM"
+                ]
+            },
+            "location": [
+                32.8194281,
+                34.9903608
+            ]
+        },
+        {
+            "place_id": "ChIJh8K097W7HRURuPBrBB9MiF8",
+            "rating": 3.9,
+            "name": "Tarbush Cafe & Restaurant",
+            "amount_of_ratings": 376,
+            "address": "Sderot Ben Gurion 36, Haifa, Israel",
+            "phone_number": "04-811-1017",
+            "maps_url": "https://maps.google.com/?cid=6883835726537683128",
+            "website_url": "https://www.facebook.com/tarbushcafferestaurant",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "0200"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "0200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "0200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "0200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "0200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "0200"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "0200"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 2:00 AM",
+                    "Tuesday: 9:00 AM – 2:00 AM",
+                    "Wednesday: 9:00 AM – 2:00 AM",
+                    "Thursday: 9:00 AM – 2:00 AM",
+                    "Friday: 9:00 AM – 2:00 AM",
+                    "Saturday: 9:00 AM – 2:00 AM",
+                    "Sunday: 9:00 AM – 2:00 AM"
+                ]
+            },
+            "location": [
+                32.8195762,
+                34.9901618
+            ]
+        },
+        {
+            "place_id": "ChIJuzERvzW6HRURku5sg5gkeqg",
+            "rating": 4.6,
+            "name": "Maayan Habira",
+            "amount_of_ratings": 3772,
+            "address": "Natanzon St 4, Haifa, Israel",
+            "phone_number": "04-862-3193",
+            "maps_url": "https://maps.google.com/?cid=12140055982989176466",
+            "website_url": "https://www.facebook.com/MaayaNHabira/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1000"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 10:00 AM – 5:00 PM",
+                    "Tuesday: 10:00 AM – 5:00 PM",
+                    "Wednesday: 10:00 AM – 5:00 PM",
+                    "Thursday: 10:00 AM – 5:00 PM",
+                    "Friday: 10:00 AM – 5:00 PM",
+                    "Saturday: Closed",
+                    "Sunday: 10:00 AM – 5:00 PM"
+                ]
+            },
+            "location": [
+                32.8184032,
+                34.9986877
+            ]
+        },
+        {
+            "place_id": "ChIJzxwLw6S7HRURM0O1Cgybsug",
+            "rating": 4.5,
+            "name": "משאוושה Mashawasha",
+            "amount_of_ratings": 366,
+            "address": "HaAliya HaShniya St 14, Haifa, 3525501, Israel",
+            "phone_number": "055-241-2478",
+            "maps_url": "https://maps.google.com/?cid=16767634838675342131",
+            "website_url": "https://mashawasha.business.site/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:00 AM – 5:00 PM",
+                    "Tuesday: 8:00 AM – 5:00 PM",
+                    "Wednesday: 8:00 AM – 5:00 PM",
+                    "Thursday: 8:00 AM – 5:00 PM",
+                    "Friday: 8:00 AM – 4:00 PM",
+                    "Saturday: Closed",
+                    "Sunday: 8:00 AM – 5:00 PM"
+                ]
+            },
+            "location": [
+                32.8320706,
+                34.9836242
+            ]
+        },
+        {
+            "place_id": "ChIJIXLYWTG7HRURbl95nDfkwnE",
+            "rating": 4.8,
+            "name": "Reef Café Restaurant",
+            "amount_of_ratings": 148,
+            "address": "HaHagana Ave 32, Haifa, Israel",
+            "phone_number": "04-880-9967",
+            "maps_url": "https://maps.google.com/?cid=8197365199267258222",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1500"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:00 AM – 6:00 PM",
+                    "Tuesday: 8:00 AM – 6:00 PM",
+                    "Wednesday: 8:00 AM – 6:00 PM",
+                    "Thursday: 8:00 AM – 6:00 PM",
+                    "Friday: 8:00 AM – 3:00 PM",
+                    "Saturday: Closed",
+                    "Sunday: 8:00 AM – 6:00 PM"
+                ]
+            },
+            "location": [
+                32.8303184,
+                34.9770355
+            ]
+        },
+        {
+            "place_id": "ChIJeRFUbTW6HRURqPRjXQUnCbE",
+            "rating": 4.3,
+            "name": "Faraj",
+            "amount_of_ratings": 501,
+            "address": "Sderot HaMeginim 29, Haifa, Israel",
+            "phone_number": "04-862-1276",
+            "maps_url": "https://maps.google.com/?cid=12756770323498792104",
+            "website_url": "https://israelbusinessguide.com/catalog/hayfa/faraj/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "1830"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1830"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1830"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1830"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1830"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1830"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0630"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1830"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0630"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 6:30 AM – 6:30 PM",
+                    "Tuesday: 6:30 AM – 6:30 PM",
+                    "Wednesday: 6:30 AM – 6:30 PM",
+                    "Thursday: 6:30 AM – 6:30 PM",
+                    "Friday: 6:30 AM – 6:30 PM",
+                    "Saturday: 6:30 AM – 6:30 PM",
+                    "Sunday: 6:30 AM – 6:30 PM"
+                ]
+            },
+            "location": [
+                32.8180503,
+                34.99832149999999
+            ]
+        },
+        {
+            "place_id": "ChIJNWs9fbW7HRURbhzBGAgLSvE",
+            "rating": 4.2,
+            "name": "Allenby Restaurant",
+            "amount_of_ratings": 645,
+            "address": "Derech Allenby 43, Haifa, Israel",
+            "phone_number": "04-852-9928",
+            "maps_url": "https://maps.google.com/?cid=17386721440820173934",
+            "website_url": "https://alenbi-restaurant.business.site/?utm_source=gmb&utm_medium=referral",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0800"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:00 AM – 6:00 PM",
+                    "Tuesday: 8:00 AM – 6:00 PM",
+                    "Wednesday: 8:00 AM – 6:00 PM",
+                    "Thursday: 8:00 AM – 6:00 PM",
+                    "Friday: 8:00 AM – 6:00 PM",
+                    "Saturday: 8:00 AM – 6:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "location": [
+                32.8187631,
+                34.9926622
+            ]
+        },
+        {
+            "place_id": "ChIJVykgnsu7HRURLpmsZkEJe0M",
+            "rating": 4.2,
+            "name": "MENCHES",
+            "amount_of_ratings": 440,
+            "address": "שדרות בן גוריון 6 | Ben Gurion Avenue 6, חיפה | Haifa, Israel",
+            "phone_number": "04-855-2201",
+            "maps_url": "https://maps.google.com/?cid=4862490399176694062",
+            "website_url": "http://www.facebook.com/MenchesHaifaa",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1000"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 10:00 AM – 12:00 AM",
+                    "Tuesday: 10:00 AM – 12:00 AM",
+                    "Wednesday: 10:00 AM – 12:00 AM",
+                    "Thursday: 10:00 AM – 12:00 AM",
+                    "Friday: 10:00 AM – 12:00 AM",
+                    "Saturday: 10:00 AM – 12:00 AM",
+                    "Sunday: 10:00 AM – 12:00 AM"
+                ]
+            },
+            "location": [
+                32.82307,
+                34.992164
+            ]
+        },
+        {
+            "place_id": "ChIJReErqWS7HRUR1veGCC8FGEg",
+            "rating": 4.1,
+            "name": "נירוונה פרש קיטשן - Nirvana By Fresh Kitchen",
+            "amount_of_ratings": 2201,
+            "address": "חוף דדו, David Elazar 2, Haifa, Israel",
+            "phone_number": "04-850-1444",
+            "maps_url": "https://maps.google.com/?cid=5194907869736531926",
+            "website_url": "https://nirvanabeach.co.il/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0830"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:30 AM – 9:00 PM",
+                    "Tuesday: 8:30 AM – 9:00 PM",
+                    "Wednesday: 8:30 AM – 9:00 PM",
+                    "Thursday: 8:30 AM – 9:00 PM",
+                    "Friday: 8:30 AM – 10:00 PM",
+                    "Saturday: 8:30 AM – 10:00 PM",
+                    "Sunday: 8:30 AM – 9:00 PM"
+                ]
+            },
+            "location": [
+                32.8004608,
+                34.95647809999999
+            ]
+        },
+        {
+            "place_id": "ChIJV950MjS6HRURZKAOl21Ji3Y",
+            "rating": 4.4,
+            "name": "Abu Rami Ha-Namal Hummus",
+            "amount_of_ratings": 71,
+            "address": "Ha-Namal St 30, Haifa, Israel",
+            "phone_number": "050-753-2150",
+            "maps_url": "https://maps.google.com/?cid=8542001853272858724",
+            "website_url": "https://www.facebook.com/hhanamal/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0800"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:00 AM – 4:00 PM",
+                    "Tuesday: 8:00 AM – 4:00 PM",
+                    "Wednesday: 8:00 AM – 4:00 PM",
+                    "Thursday: 8:00 AM – 4:00 PM",
+                    "Friday: 8:00 AM – 4:00 PM",
+                    "Saturday: 8:00 AM – 4:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "location": [
+                32.8195354,
+                35.0001699
+            ]
+        },
+        {
+            "place_id": "ChIJ-RMgg2S7HRURnzDIyFJD2z0",
+            "rating": 3.9,
+            "name": "Eliyahu's Place",
+            "amount_of_ratings": 1161,
+            "address": "David Elazar St 6, Haifa, Israel",
+            "phone_number": "04-852-6716",
+            "maps_url": "https://maps.google.com/?cid=4457230279048179871",
+            "website_url": "https://israelbusinessguide.com/catalog/hayfa/rest___/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0905"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0905"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0905"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0905"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0905"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0905"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0905"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:05 AM – 10:00 PM",
+                    "Tuesday: 9:05 AM – 10:00 PM",
+                    "Wednesday: 9:05 AM – 10:00 PM",
+                    "Thursday: 9:05 AM – 10:00 PM",
+                    "Friday: 9:05 AM – 12:00 AM",
+                    "Saturday: 9:05 AM – 12:00 AM",
+                    "Sunday: 9:05 AM – 10:00 PM"
+                ]
+            },
+            "location": [
+                32.79861429999999,
+                34.9564911
+            ]
+        },
+        {
+            "place_id": "ChIJ8-n5uVa7HRURYBzIpR48E1w",
+            "rating": 4.7,
+            "name": "Hummus Bar",
+            "amount_of_ratings": 1162,
+            "address": "Natanzon St 22, Haifa, Israel",
+            "phone_number": "04-690-6808",
+            "maps_url": "https://maps.google.com/?cid=6634712778374913120",
+            "website_url": "https://hummusbar.co.il/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1130"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1130"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1130"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1130"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1130"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1130"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1200"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 11:30 AM – 10:00 PM",
+                    "Tuesday: 11:30 AM – 10:00 PM",
+                    "Wednesday: 11:30 AM – 10:00 PM",
+                    "Thursday: 11:30 AM – 10:00 PM",
+                    "Friday: 11:30 AM – 10:00 PM",
+                    "Saturday: 12:00 – 10:00 PM",
+                    "Sunday: 11:30 AM – 10:00 PM"
+                ]
+            },
+            "location": [
+                32.8168904,
+                35.00107829999999
+            ]
+        },
+        {
+            "place_id": "ChIJ63hUrBG7HRURrtyF1G_QNR4",
+            "rating": 4.8,
+            "name": "Al Yakhour House אליאחור האוס",
+            "amount_of_ratings": 101,
+            "address": "Sderot Ben Gurion 24, Haifa, Israel",
+            "phone_number": "050-582-7223",
+            "maps_url": "https://maps.google.com/?cid=2176875173628992686",
+            "website_url": "https://www.facebook.com/Alyakhourhummus/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1100"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 11:00 AM – 5:00 PM",
+                    "Tuesday: 11:00 AM – 5:00 PM",
+                    "Wednesday: 11:00 AM���– 5:00 PM",
+                    "Thursday: 11:00 AM – 5:00 PM",
+                    "Friday: 11:00 AM – 5:00 PM",
+                    "Saturday: 11:00 AM – 5:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "location": [
+                32.82096219999999,
+                34.9907812
+            ]
+        },
+        {
+            "place_id": "ChIJ2ZPJPMK7HRUR-dpE4WQrfrc",
+            "rating": 4,
+            "name": "Haled Adawi",
+            "amount_of_ratings": 1323,
+            "address": "תחנת דלק סונול, Rav Aluf Ya'akov Dori 20, Haifa, Israel",
+            "phone_number": "04-832-2924",
+            "maps_url": "https://maps.google.com/?cid=13222053268282465017",
+            "website_url": "https://www.khaled-adawi.co.il/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 10:00 PM",
+                    "Tuesday: 9:00 AM – 10:00 PM",
+                    "Wednesday: 9:00 AM – 10:00 PM",
+                    "Thursday: 9:00 AM – 10:00 PM",
+                    "Friday: 9:00 AM – 10:00 PM",
+                    "Saturday: 9:00 AM – 10:00 PM",
+                    "Sunday: 9:00 AM – 10:00 PM"
+                ]
+            },
+            "location": [
+                32.781494,
+                35.0242428
+            ]
+        },
+        {
+            "place_id": "ChIJAYiWR7W7HRURP2V1On_Rk7U",
+            "rating": 4.8,
+            "name": "Hummus Al Sham",
+            "amount_of_ratings": 550,
+            "address": "Wadi St 21, Haifa, Israel",
+            "phone_number": "04-838-2520",
+            "maps_url": "https://maps.google.com/?cid=13084031686813246783",
+            "website_url": "https://www.facebook.com/%D7%97%D7%95%D7%9E%D7%95%D7%A1-%D7%90%D7%9C%D7%A9%D7%90%D7%9D-%D8%AD%D9%85%D8%B5-%D8%A7%D9%84%D8%B4%D8%A7%D9%85-hummus-elsham-1801180406832732/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0800"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:00 AM – 4:00 PM",
+                    "Tuesday: 8:00 AM – 4:00 PM",
+                    "Wednesday: 8:00 AM – 4:00 PM",
+                    "Thursday: 8:00 AM – 4:00 PM",
+                    "Friday: 8:00 AM – 4:00 PM",
+                    "Saturday: 8:00 AM – 4:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "location": [
+                32.8170166,
+                34.99385
+            ]
+        },
+        {
+            "place_id": "ChIJ7yFS_mMPHRURAqs0L3Neags",
+            "rating": 4.2,
+            "name": "Shaltieli",
+            "amount_of_ratings": 1901,
+            "address": "Yohai Ben Nun St 6, Haifa, Israel",
+            "phone_number": "04-855-0393",
+            "maps_url": "https://maps.google.com/?cid=822573730754767618",
+            "website_url": "http://www.shaltieli.co.il/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "0030"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "0030"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "0030"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "0030"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "0100"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1430"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "0130"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1830"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 10:00 AM – 12:30 AM",
+                    "Tuesday: 10:00 AM – 12:30 AM",
+                    "Wednesday: 10:00 AM – 12:30 AM",
+                    "Thursday: 10:00 AM – 1:00 AM",
+                    "Friday: 10:00 AM – 2:30 PM",
+                    "Saturday: 6:30 PM – 1:30 AM",
+                    "Sunday: 10:00 AM – 12:30 AM"
+                ]
+            },
+            "location": [
+                32.7933492,
+                34.95614899999999
+            ]
+        },
+        {
+            "place_id": "ChIJO_k5tUi6HRURuBJcwMj1vsw",
+            "rating": 4.4,
+            "name": "Glida Romanian Restaurant",
+            "amount_of_ratings": 2646,
+            "address": "Kibuts Galuyot St 23, Haifa, Israel",
+            "phone_number": "04-866-7929",
+            "maps_url": "https://maps.google.com/?cid=14753499671881847480",
+            "website_url": "http://www.glida.com/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1130"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1130"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1130"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1130"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1130"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1130"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 11:30 AM – 10:00 PM",
+                    "Tuesday: 11:30 AM – 10:00 PM",
+                    "Wednesday: 11:30 AM – 10:00 PM",
+                    "Thursday: 11:30 AM – 10:00 PM",
+                    "Friday: 11:30 AM – 5:00 PM",
+                    "Saturday: 11:30 AM – 6:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "location": [
+                32.8103652,
+                35.00448280000001
+            ]
+        },
+        {
+            "place_id": "ChIJy8-oeJu7HRURGgT3g5EhE08",
+            "rating": 4.3,
+            "name": "Beach Club Haifa",
+            "amount_of_ratings": 1271,
+            "address": "Yohai Ben Nun St, Haifa, Israel",
+            "phone_number": "04-662-6791",
+            "maps_url": "https://maps.google.com/?cid=5697934862421787674",
+            "website_url": "https://www.beachclubhaifa.co.il/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1400"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 10:00 PM",
+                    "Tuesday: 9:00 AM – 10:00 PM",
+                    "Wednesday: 9:00 AM – 10:00 PM",
+                    "Thursday: 9:00 AM – 11:00 PM",
+                    "Friday: 9:00 AM – 11:00 PM",
+                    "Saturday: 9:00 AM – 10:00 PM",
+                    "Sunday: 2:00 – 10:00 PM"
+                ]
+            },
+            "location": [
+                32.79039,
+                34.95581429999999
+            ]
+        },
+        {
+            "place_id": "ChIJ2ZPJPMK7HRURVOlPiEL659o",
+            "rating": 4.6,
+            "name": "HaZkenim Falafel",
+            "amount_of_ratings": 1722,
+            "address": "Wadi St 18, Haifa, Israel",
+            "phone_number": "04-851-4959",
+            "maps_url": "https://maps.google.com/?cid=15773851383550175572",
+            "website_url": "https://www.instagram.com/falafel_najla_hazkenim/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1830"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1830"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1830"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1830"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1830"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1830"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0830"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:30 AM – 6:30 PM",
+                    "Tuesday: 8:30 AM – 6:30 PM",
+                    "Wednesday: 8:30 AM – 6:30 PM",
+                    "Thursday: 8:30 AM – 6:30 PM",
+                    "Friday: 8:30 AM – 6:30 PM",
+                    "Saturday: 8:30 AM – 6:30 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "location": [
+                32.8171075,
+                34.9936894
+            ]
+        },
+        {
+            "place_id": "ChIJ-ayRJrW7HRURARlcFvAefHo",
+            "rating": 4.6,
+            "name": "Victor the fisherman",
+            "amount_of_ratings": 52,
+            "address": "Wadi St 30, Haifa, Israel",
+            "phone_number": "04-855-2301",
+            "maps_url": "https://maps.google.com/?cid=8825963386255448321",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1000"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 10:00 AM – 6:00 PM",
+                    "Tuesday: 10:00 AM – 6:00 PM",
+                    "Wednesday: 10:00 AM – 6:00 PM",
+                    "Thursday: 10:00 AM – 6:00 PM",
+                    "Friday: 10:00 AM – 6:00 PM",
+                    "Saturday: 10:00 AM – 6:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "location": [
+                32.8163253,
+                34.9936653
+            ]
+        },
+        {
+            "place_id": "ChIJdd485_67HRURfZkhX3W31Lo",
+            "rating": 4.5,
+            "name": "מסעדת האחים מוגרבי",
+            "amount_of_ratings": 76,
+            "address": "Jaffa Road 141, Haifa, Israel",
+            "phone_number": "04-853-0787",
+            "maps_url": "https://maps.google.com/?cid=13462586900852349309",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "0200"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1030"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "0200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1030"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "0200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1030"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "0200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1030"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "0200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1030"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "0200"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1030"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "0200"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1030"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 10:30 AM – 2:00 AM",
+                    "Tuesday: 10:30 AM – 2:00 AM",
+                    "Wednesday: 10:30 AM – 2:00 AM",
+                    "Thursday: 10:30 AM – 2:00 AM",
+                    "Friday: 10:30 AM – 2:00 AM",
+                    "Saturday: 10:30 AM – 2:00 AM",
+                    "Sunday: 10:30 AM – 2:00 AM"
+                ]
+            },
+            "location": [
+                32.8270471,
+                34.9872185
+            ]
+        },
+        {
+            "place_id": "ChIJP6CxObW7HRURoPr_GGJBLiU",
+            "rating": 4.6,
+            "name": "Michelle Falafel",
+            "amount_of_ratings": 195,
+            "address": "Wadi St 21, Haifa, Israel",
+            "phone_number": "04-851-7054",
+            "maps_url": "https://maps.google.com/?cid=2679150717914053280",
+            "website_url": "https://www.facebook.com/MichelFalafel",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1000"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 10:00 AM – 5:00 PM",
+                    "Tuesday: 10:00 AM – 5:00 PM",
+                    "Wednesday: 10:00 AM – 5:00 PM",
+                    "Thursday: 10:00 AM – 5:00 PM",
+                    "Friday: 10:00 AM – 5:00 PM",
+                    "Saturday: 10:00 AM – 5:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "location": [
+                32.8171639,
+                34.9938698
+            ]
+        },
+        {
+            "place_id": "ChIJEZ8Xu7K7HRUR8ipcoZ5Eq7g",
+            "rating": 4.5,
+            "name": "Zebra",
+            "amount_of_ratings": 382,
+            "address": "Tchernikhovski St 39, Haifa, Israel",
+            "phone_number": "077-321-2290",
+            "maps_url": "https://maps.google.com/?cid=13306804972098956018",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2300"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 11:00 PM",
+                    "Tuesday: 9:00 AM – 11:00 PM",
+                    "Wednesday: 9:00 AM – 11:00 PM",
+                    "Thursday: 9:00 AM – 11:00 PM",
+                    "Friday: 9:00 AM – 11:00 PM",
+                    "Saturday: 9:00 AM – 11:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "location": [
+                32.8198992,
+                34.9740512
+            ]
+        },
+        {
+            "place_id": "ChIJQbi1kvK6HRURE57UUieIHDo",
+            "rating": 4.1,
+            "name": "McDavid",
+            "amount_of_ratings": 233,
+            "address": "Sderot Trumpeldor 56, Haifa, Israel",
+            "phone_number": "04-822-2608",
+            "maps_url": "https://maps.google.com/?cid=4187371456022486547",
+            "website_url": "https://www.facebook.com/McDavidHaifa/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2200"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1100"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 11:00 AM – 10:00 PM",
+                    "Tuesday: 11:00 AM – 10:00 PM",
+                    "Wednesday: 11:00 AM – 10:00 PM",
+                    "Thursday: 11:00 AM – 10:00 PM",
+                    "Friday: 11:00 AM – 10:00 PM",
+                    "Saturday: 11:00 AM – 10:00 PM",
+                    "Sunday: 11:00 AM – 10:00 PM"
+                ]
+            },
+            "location": [
+                32.7828771,
+                35.0140044
+            ]
+        },
+        {
+            "place_id": "ChIJWYjmpcq7HRURRHaeMCkFdJ0",
+            "rating": 4.5,
+            "name": "Shawarma Emil",
+            "amount_of_ratings": 1857,
+            "address": "Derech Allenby 33, Haifa, Israel",
+            "phone_number": "04-851-7096",
+            "maps_url": "https://maps.google.com/?cid=11345699035720611396",
+            "website_url": "https://israelbusinessguide.com/catalog/hayfa/shawarma_emil__/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 4:00 PM",
+                    "Tuesday: 9:00 AM – 4:00 PM",
+                    "Wednesday: 9:00 AM – 4:00 PM",
+                    "Thursday: 9:00 AM – 4:00 PM",
+                    "Friday: 9:00 AM – 4:00 PM",
+                    "Saturday: Closed",
+                    "Sunday: 9:00 AM – 4:00 PM"
+                ]
+            },
+            "location": [
+                32.8187756,
+                34.99409069999999
+            ]
+        },
+        {
+            "place_id": "ChIJ2a6eTai7HRURk-CW8El8OdY",
+            "rating": 4.6,
+            "name": "Falafel President",
+            "amount_of_ratings": 565,
+            "address": "HaNassi Blvd 135, Haifa, Israel",
+            "phone_number": "04-838-5159",
+            "maps_url": "https://maps.google.com/?cid=15436505854799962259",
+            "website_url": "https://www.facebook.com/falafel.hanasi.carmel/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0930"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 10:00 AM – 8:00 PM",
+                    "Tuesday: 10:00 AM – 8:00 PM",
+                    "Wednesday: 10:00 AM – 8:00 PM",
+                    "Thursday: 10:00 AM – 8:00 PM",
+                    "Friday: 9:30 AM – 4:00 PM",
+                    "Saturday: Closed",
+                    "Sunday: 10:00 AM – 8:00 PM"
+                ]
+            },
+            "location": [
+                32.8028523,
+                34.9862937
+            ]
+        },
+        {
+            "place_id": "ChIJM1eqULywHRURMQHV-X2nDnY",
+            "rating": 4.7,
+            "name": "BP - ביסטרו כשר במפרץ חיפה",
+            "amount_of_ratings": 9980,
+            "address": "HaHistadrut Ave 157, Haifa, 26299, Israel",
+            "phone_number": "04-872-1988",
+            "maps_url": "https://maps.google.com/?cid=8506920905653682481",
+            "website_url": "http://www.bprest.co.il/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1130"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1130"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1130"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1130"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "0030"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1130"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1400"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1130"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "0030"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 11:30 AM – 12:00 AM",
+                    "Tuesday: 11:30 AM – 12:00 AM",
+                    "Wednesday: 11:30 AM – 12:00 AM",
+                    "Thursday: 11:30 AM – 12:30 AM",
+                    "Friday: 11:30 AM – 2:00 PM",
+                    "Saturday: 7:00 PM – 12:30 AM",
+                    "Sunday: 11:30 AM – 12:00 AM"
+                ]
+            },
+            "location": [
+                32.8027413,
+                35.0527499
+            ]
+        },
+        {
+            "place_id": "ChIJLYCN8Ei6HRURWMVQgjDP1hA",
+            "rating": 4.2,
+            "name": "Abu Marun Hummus",
+            "amount_of_ratings": 770,
+            "address": "Kibuts Galuyot St 1, Haifa, Israel",
+            "phone_number": "054-631-2575",
+            "maps_url": "https://maps.google.com/?cid=1213384956874638680",
+            "website_url": "https://www.10bis.co.il/next/restaurants/menu/delivery/24685/%D7%97%D7%95%D7%9E%D7%95%D7%A1%20%D7%90%D7%91%D7%95%20%D7%9E%D7%A8%D7%95%D7%9F%20",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0830"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:30 AM – 4:00 PM",
+                    "Tuesday: 8:30 AM – 4:00 PM",
+                    "Wednesday: 8:30 AM – 4:00 PM",
+                    "Thursday: 8:30 AM – 4:00 PM",
+                    "Friday: 8:30 AM – 4:00 PM",
+                    "Saturday: 8:30 AM – 4:00 PM",
+                    "Sunday: 8:30 AM – 4:00 PM"
+                ]
+            },
+            "location": [
+                32.8125,
+                35.0038889
+            ]
+        },
+        {
+            "place_id": "ChIJFwOFqqm7HRURA_A5lJEPZh4",
+            "rating": 4.3,
+            "name": "Billy Shawarma",
+            "amount_of_ratings": 523,
+            "address": "HaNassi Blvd 130, Haifa, Israel",
+            "phone_number": "04-824-7606",
+            "maps_url": "https://maps.google.com/?cid=2190455386693824515",
+            "website_url": "https://shawarmabilli.co.il/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1030"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1030"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1030"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1030"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1030"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "0230"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1030"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1200"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 10:30 AM – 11:30 PM",
+                    "Tuesday: 10:30 AM – 11:30 PM",
+                    "Wednesday: 10:30 AM – 11:30 PM",
+                    "Thursday: 10:30 AM – 11:30 PM",
+                    "Friday: 10:30 AM – 2:30 AM",
+                    "Saturday: 12:00 – 11:30 PM",
+                    "Sunday: 10:30 AM – 11:30 PM"
+                ]
+            },
+            "location": [
+                32.80356890000001,
+                34.9866844
+            ]
+        },
+        {
+            "place_id": "ChIJwZ4sGTW6HRURMz8VAaJAsng",
+            "rating": 4.4,
+            "name": "Rany Restaurant",
+            "amount_of_ratings": 20,
+            "address": "Sara St 3, Haifa, Israel",
+            "phone_number": "04-853-0843",
+            "maps_url": "https://maps.google.com/?cid=8697084894952898355",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1000"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 10:00 AM – 8:00 PM",
+                    "Tuesday: 10:00 AM – 8:00 PM",
+                    "Wednesday: 10:00 AM – 8:00 PM",
+                    "Thursday: 10:00 AM – 8:00 PM",
+                    "Friday: 10:00��AM – 5:00 PM",
+                    "Saturday: Closed",
+                    "Sunday: 10:00 AM – 8:00 PM"
+                ]
+            },
+            "location": [
+                32.8199691,
+                34.996212
+            ]
+        },
+        {
+            "place_id": "ChIJDQdjohm7HRUR90r8rkGLF10",
+            "rating": 4.6,
+            "name": "Falafel HaNassi",
+            "amount_of_ratings": 292,
+            "address": "Khorev St 16, Haifa, Israel",
+            "phone_number": "054-481-3517",
+            "maps_url": "https://maps.google.com/?cid=6707983284216548087",
+            "website_url": "https://israelbusinessguide.com/catalog/hayfa/falafel_hanassi/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2000"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1500"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1100"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 11:00 AM – 8:00 PM",
+                    "Tuesday: 11:00 AM – 8:00 PM",
+                    "Wednesday: 11:00 AM – 8:00 PM",
+                    "Thursday: 11:00 AM – 8:00 PM",
+                    "Friday: 11:00 AM – 3:00 PM",
+                    "Saturday: Closed",
+                    "Sunday: 11:00 AM – 8:00 PM"
+                ]
+            },
+            "location": [
+                32.7849578,
+                34.986061
+            ]
+        },
+        {
+            "place_id": "ChIJNUENQ3m7HRURAONwqn2THiE",
+            "rating": 4.1,
+            "name": "Tortuga",
+            "amount_of_ratings": 822,
+            "address": "David Elazar St 10, Haifa, Israel",
+            "phone_number": "04-611-0011",
+            "maps_url": "https://maps.google.com/?cid=2386507020492661504",
+            "website_url": "http://tortugahf.co.il/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "0000"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "0100"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "0100"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0800"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:30 AM – 12:00 AM",
+                    "Tuesday: 8:30 AM – 12:00 AM",
+                    "Wednesday: 8:30 AM – 12:00 AM",
+                    "Thursday: 8:30 AM – 12:00 AM",
+                    "Friday: 8:00 AM – 1:00 AM",
+                    "Saturday: 8:00 AM – 1:00 AM",
+                    "Sunday: 8:30 AM – 12:00 AM"
+                ]
+            },
+            "location": [
+                32.8047811,
+                34.9564105
+            ]
+        },
+        {
+            "place_id": "ChIJBfLPie67HRURmrigRMrvH94",
+            "rating": 4.8,
+            "name": "מלכת הטאבון",
+            "amount_of_ratings": 98,
+            "address": "Khorev St 16, Haifa, Israel",
+            "phone_number": "04-904-6161",
+            "maps_url": "https://maps.google.com/?cid=16005775252711848090",
+            "website_url": "https://motherstabun.business.site/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "1630"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1630"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1630"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1630"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1630"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1000"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1530"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1030"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 10:00 AM – 4:30 PM",
+                    "Tuesday: 10:00 AM – 4:30 PM",
+                    "Wednesday: 10:00 AM – 4:30���PM",
+                    "Thursday: 10:00 AM – 4:30 PM",
+                    "Friday: 10:30 AM – 3:30 PM",
+                    "Saturday: Closed",
+                    "Sunday: 10:00 AM – 4:30 PM"
+                ]
+            },
+            "location": [
+                32.78510170000001,
+                34.98593270000001
+            ]
+        },
+        {
+            "place_id": "ChIJP5aZqfu6HRURYffOQm3sIA4",
+            "rating": 4.1,
+            "name": "Matza Restaurant",
+            "amount_of_ratings": 1337,
+            "address": "מתחם תחנת דלק, דרך רופין, חיפה, Israel",
+            "phone_number": "04-824-7399",
+            "maps_url": "https://maps.google.com/?cid=1018073469802182497",
+            "website_url": "http://mazarestaurant.net/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2130"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2130"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2130"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2130"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2130"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2130"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0830"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2130"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0830"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:30 AM – 9:30 PM",
+                    "Tuesday: 8:30 AM – 9:30 PM",
+                    "Wednesday: 8:30 AM – 9:30 PM",
+                    "Thursday: 8:30 AM – 9:30 PM",
+                    "Friday: 8:30 AM – 9:30 PM",
+                    "Saturday: 8:30 AM – 9:30 PM",
+                    "Sunday: 8:30 AM – 9:30 PM"
+                ]
+            },
+            "location": [
+                32.7888442,
+                35.002832
+            ]
+        },
+        {
+            "place_id": "ChIJ2-w4kzW6HRURBP8_m5oRn9Q",
+            "rating": 4.3,
+            "name": "Star Restaurant - Yussef Brothers",
+            "amount_of_ratings": 385,
+            "address": "Sderot HaMeginim 19, Haifa, Israel",
+            "phone_number": "04-864-0666",
+            "maps_url": "https://maps.google.com/?cid=15320983813065015044",
+            "website_url": "https://restaurantguru.com/msedt-abv-ivsp-Haifa-2",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2330"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0900"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 9:00 AM – 11:30 PM",
+                    "Tuesday: 9:00 AM – 11:30 PM",
+                    "Wednesday: 9:00 AM – 11:30 PM",
+                    "Thursday: 9:00 AM – 11:30 PM",
+                    "Friday: 9:00 AM – 11:30 PM",
+                    "Saturday: 9:00 AM – 11:30 PM",
+                    "Sunday: 9:00 AM – 11:30 PM"
+                ]
+            },
+            "location": [
+                32.81781169999999,
+                34.9988258
+            ]
+        },
+        {
+            "place_id": "ChIJL5uJn0y6HRURES6AuCXgM7U",
+            "rating": 4.8,
+            "name": "Falafel George",
+            "amount_of_ratings": 346,
+            "address": "שוק חיפה, יוחנן הקדוש 26, חיפה, Israel",
+            "phone_number": "050-529-2089",
+            "maps_url": "https://maps.google.com/?cid=13057026197291019793",
+            "website_url": "https://israelbusinessguide.com/catalog/hayfa/falafel_george/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0500"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0500"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0500"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0500"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0500"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0500"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 5:00 AM – 5:00 PM",
+                    "Tuesday: 5:00 AM – 5:00 PM",
+                    "Wednesday: 5:00 AM – 5:00 PM",
+                    "Thursday: 5:00 AM – 5:00 PM",
+                    "Friday: 5:00 AM – 5:00 PM",
+                    "Saturday: 5:00 AM – 5:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "location": [
+                32.8174619,
+                34.994252
+            ]
+        },
+        {
+            "place_id": "ChIJb41sRE66HRURdqw5wu7stdE",
+            "rating": 4.6,
+            "name": "Jyoti- Indian Restaurant",
+            "amount_of_ratings": 54,
+            "address": "Herzliya St 12, Haifa, Israel",
+            "phone_number": "054-208-8077",
+            "maps_url": "https://maps.google.com/?cid=15111244634916498550",
+            "website_url": "http://facebook.com/jyoti.rest",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0900"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1200"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2100"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1200"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 12:00 – 5:00 PM",
+                    "Tuesday: 9:00 AM – 5:00 PM",
+                    "Wednesday: 9:00 AM – 5:00 PM",
+                    "Thursday: 12:00 – 9:00 PM",
+                    "Friday: 12:00 – 9:00 PM",
+                    "Saturday: 12:00 – 9:00 PM",
+                    "Sunday: Closed"
+                ]
+            },
+            "location": [
+                32.8125089,
+                34.9933751
+            ]
+        },
+        {
+            "place_id": "ChIJ1yWrBDW6HRURBjKXg6nNMRs",
+            "rating": 4.4,
+            "name": "Yafa 39 يافا 39 יאפא‎",
+            "amount_of_ratings": 262,
+            "address": "HaBankim St 8, Haifa, Israel",
+            "phone_number": "04-850-7058",
+            "maps_url": "https://maps.google.com/?cid=1959573440823767558",
+            "website_url": "https://www.facebook.com/Yafa39Haifa/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1800"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0730"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1600"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0730"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 7:30 AM – 6:00 PM",
+                    "Tuesday: 7:30 AM – 6:00 PM",
+                    "Wednesday: 7:30 AM – 6:00 PM",
+                    "Thursday: 7:30 AM – 6:00 PM",
+                    "Friday: 7:30 AM – 4:00 PM",
+                    "Saturday: Closed",
+                    "Sunday: 7:30 AM – 6:00 PM"
+                ]
+            },
+            "location": [
+                32.8198214,
+                34.9967839
+            ]
+        },
+        {
+            "place_id": "ChIJ3Q-cdRi7HRURI1VyqZDyWZ4",
+            "rating": 4.6,
+            "name": "Arussa in the City",
+            "amount_of_ratings": 77,
+            "address": "Derech HaAtsma'ut 94, Haifa, Israel",
+            "phone_number": "04-880-1484",
+            "maps_url": "https://maps.google.com/?cid=11410417834051917091",
+            "website_url": "http://arosa.orderss.co.il/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "0200"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "0200"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "0200"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "0200"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "0300"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "0300"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "0200"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1700"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 11:00 AM – 2:00 AM",
+                    "Tuesday: 11:00 AM – 2:00 AM",
+                    "Wednesday: 11:00 AM – 2:00 AM",
+                    "Thursday: 11:00 AM – 3:00 AM",
+                    "Friday: 11:00 AM – 3:00 AM",
+                    "Saturday: 5:00 PM – 2:00 AM",
+                    "Sunday: 11:00 AM – 2:00 AM"
+                ]
+            },
+            "location": [
+                32.820248,
+                34.9976646
+            ]
+        },
+        {
+            "place_id": "ChIJ7wvaaLi6HRURKYFC0z-qHEk",
+            "rating": 4.6,
+            "name": "אפי טעמים ביתיים - אוניברסיטת חיפה",
+            "amount_of_ratings": 64,
+            "address": "Abba Khoushy Ave 199, Haifa, 3498838, Israel",
+            "phone_number": "050-988-0003",
+            "maps_url": "https://maps.google.com/?cid=5268272855220650281",
+            "website_url": "https://restaurant-109572.business.site/?utm_source=gmb&utm_medium=referral",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1100"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "1700"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1100"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 11:00 AM – 5:00 PM",
+                    "Tuesday: 11:00 AM – 5:00 PM",
+                    "Wednesday: 11:00 AM – 5:00 PM",
+                    "Thursday: 11:00 AM – 5:00 PM",
+                    "Friday: Closed",
+                    "Saturday: Closed",
+                    "Sunday: 11:00 AM – 5:00 PM"
+                ]
+            },
+            "location": [
+                32.7593889,
+                35.0235859
+            ]
+        },
+        {
+            "place_id": "ChIJXVJP5QW7HRURb3CMMIzUbXE",
+            "rating": 4.4,
+            "name": "Umm Kulthum",
+            "amount_of_ratings": 1548,
+            "address": "Moriah Ave 60, Haifa, Israel",
+            "phone_number": "04-885-2227",
+            "maps_url": "https://maps.google.com/?cid=8173422597322338415",
+            "website_url": "https://umkultum.co.il/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1130"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1130"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1130"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1130"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1130"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1130"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "1130"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 11:30 AM – 10:30 PM",
+                    "Tuesday: 11:30 AM – 10:30 PM",
+                    "Wednesday: 11:30 AM – 10:30 PM",
+                    "Thursday: 11:30 AM – 10:30 PM",
+                    "Friday: 11:30 AM – 10:30 PM",
+                    "Saturday: 11:30 AM – 10:30 PM",
+                    "Sunday: 11:30 AM – 10:30 PM"
+                ]
+            },
+            "location": [
+                32.796119,
+                34.9844197
+            ]
+        },
+        {
+            "place_id": "ChIJO8HJtsW7HRURuUluWLEzUsE",
+            "rating": 3.9,
+            "name": "Maxim",
+            "amount_of_ratings": 2867,
+            "address": "Ha-Tsedef St, Haifa, Israel",
+            "phone_number": "04-838-9919",
+            "maps_url": "https://maps.google.com/?cid=13930253434196216249",
+            "website_url": "https://m.facebook.com/profile.php?id=159265950798024",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "0800"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 6,
+                            "time": "2230"
+                        },
+                        "open": {
+                            "day": 6,
+                            "time": "0800"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 8:00 AM – 10:30 PM",
+                    "Tuesday: 8:00 AM – 10:30 PM",
+                    "Wednesday: 8:00 AM – 10:30 PM",
+                    "Thursday: 8:00 AM – 10:30 PM",
+                    "Friday: 8:00 AM – 10:30 PM",
+                    "Saturday: 8:00 AM – 10:30 PM",
+                    "Sunday: 8:00 AM – 10:30 PM"
+                ]
+            },
+            "location": [
+                32.8123812,
+                34.9556842
+            ]
+        },
+        {
+            "place_id": "ChIJ0ZuI-8e7HRURgszMoTsyJ30",
+            "rating": 4.6,
+            "name": "Bar-Giyora Falafel",
+            "amount_of_ratings": 142,
+            "address": "Bar Giyora St 2, Haifa, Israel",
+            "phone_number": "052-484-4305",
+            "maps_url": "https://maps.google.com/?cid=9018232010531720322",
+            "website_url": "https://israelbusinessguide.com/catalog/hayfa/bar-giyora_falafel/",
+            "opening_hours": {
+                "open_now": true,
+                "periods": [
+                    {
+                        "close": {
+                            "day": 0,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 0,
+                            "time": "1030"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 1,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 1,
+                            "time": "1030"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 2,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 2,
+                            "time": "1030"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 3,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 3,
+                            "time": "1030"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 4,
+                            "time": "2030"
+                        },
+                        "open": {
+                            "day": 4,
+                            "time": "1030"
+                        }
+                    },
+                    {
+                        "close": {
+                            "day": 5,
+                            "time": "1730"
+                        },
+                        "open": {
+                            "day": 5,
+                            "time": "1030"
+                        }
+                    }
+                ],
+                "weekday_text": [
+                    "Monday: 10:30 AM – 8:30 PM",
+                    "Tuesday: 10:30 AM – 8:30 PM",
+                    "Wednesday: 10:30 AM – 8:30 PM",
+                    "Thursday: 10:30 AM – 8:30 PM",
+                    "Friday: 10:30 AM – 5:30 PM",
+                    "Saturday: Closed",
+                    "Sunday: 10:30 AM – 8:30 PM"
+                ]
+            },
+            "location": [
+                32.8080479,
+                34.9925876
+            ]
+        }
+    ]
+}
