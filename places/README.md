@@ -11,8 +11,9 @@ We build 3 features that we didn't find answer to them in google maps website
 We also put the results of the filtering searching on Google maps so that the user can see where each place is located
 
 This project is divided into two parts:
-    * crawler - Node js project
-    * website - frontend and backend project
+
+* crawler - Node js project
+* website - frontend and backend project
 
 
 ## Instalation
