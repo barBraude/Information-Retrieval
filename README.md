@@ -17,7 +17,10 @@ This project is divided into two parts:
 
 
 ## Instalation
-Clone the project : `git clone https://github.com/barBraude/Information-Retrieval.git`
+1. Clone the project : `git clone https://github.com/barBraude/Information-Retrieval.git`
+2. Install node js
+3. Install `npm install -g @angular/cli`
+
 
 ## To run crawler project
 
