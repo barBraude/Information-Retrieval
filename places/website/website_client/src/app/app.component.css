@@ -1,9 +1,227 @@
+* {
+    font-family: cursive;
+}
+
 .search_string_container {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
+    padding: 20px 0px 20px 0px;
+    flex-direction: row;
+}
+
+.searching-container {
+    padding: 20px;
+    padding: 20px;
+    border: solid 3px;
+    border-radius: 10px;
+    width: 34%;
+    background-color: papayawhip;
 }
 
 .search_string {
     font-size: large;
+    font-family: cursive;
+    width: 100%;
+}
+
+.spinner {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    height: 60px;
+}
+
+.spinner-container {
+    width: calc(100vw);
+    /* width: calc(100%); */
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    background: rgba(92, 73, 73, 0.25);
+    overflow: hidden;
+    z-index: 999;
+}
+
+.search-btn {
+    margin-left: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    background: #f5f5f5;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    font-family: cursive;
+}
+
+.title-rating {
+    font-size: 15px;
+    font-family: cursive;
+    width: 39%;
+}
+
+.from {
+    font-size: 15px;
+    font-family: cursive;
+    padding: 0px 20px 0px;
+    flex-direction: column;
+}
+
+.select-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 20px 0px;
+    width: 26%;
+}
+
+.select-label {
+    font-size: 15px;
+    font-family: cursive;
+    text-align: left;
+}
+
+.select-wrapper {
+    display: flex;
+}
+
+.box-select {
+    width: 100%;
+}
+
+.error {
+    color: red;
+    font-family: cursive;
+    font-size: 16px;
+}
+
+.day {
+    width: 37%;
+}
+
+.time-from {
+    display: flex;
+    flex-direction: row;
+}
+
+.colon {
+    display: flex;
+    font-family: cursive;
+    font-size: 20px;
+    padding: 0px 20px;
+    flex-direction: column;
+    justify-content: center;
+    height: 93px;
+}
+
+:host ::ng-deep.mat-form-field-appearance-fill .mat-form-field-flex {
+    background-color: papayawhip;
+    ;
+}
+
+
+
+.maps-container {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.header {
+    text-decoration: underline;
+}
+
+
+#map {
+    height: 500px;
+    width: 100%;
+}
+
+.map {
+    height: 500px;
+    width: 100%;
+    padding: 20px;
+}
+
+.place {
+    background-color: lightsteelblue;
+}
+
+.place.wrapper {
+    border: solid 3px;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 15px;
+    text-align: center;
+    display: flex;
+    width: 22vw;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+}
+
+.places-container {
+    display: grid;
+    padding: 20px 20px;
+    transition-property: transform;
+    box-sizing: content-box;
+    row-gap: 10px;
+    -moz-column-gap: 10px;
+    column-gap: 10px;
+    grid-auto-rows: 17vw;
+    /* grid-auto-columns: 67px; */
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.review {
+    text-decoration: underline;
+}
+
+.name {
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.rating {
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+.wrapper-rating {
+    display: flex;
+    justify-content: center;
+}
+
+.search_reviews {
+    padding-top: 10px;
+}
+
+.wrapper-btn {
+    display: flex;
+}
+
+.place-img {
+    background-image: url(./assets/favorite.svg);
+    position: absolute;
+    height: 46px;
+    width: 24px;
+    background-repeat: no-repeat;
+    top: 0px;
+    /* right: 33px; */
+    background-position: right;
+    background-size: 24px;
+    right: 11px;
+}
+
+.saved {
+    background-image: url(./assets/favorite_saved.svg);
+}
+
+
+a {
+    font-size: 9px;
 }

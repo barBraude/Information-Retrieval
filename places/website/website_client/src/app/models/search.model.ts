@@ -1,4 +1,4 @@
-export interface Search {
+export interface    Search {
     searchString: string;
     filters: Filters;
 }

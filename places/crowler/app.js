@@ -2,7 +2,7 @@
 const https = require('https');
 const fs = require('fs');
 
-
+// get list of places that the user is search for
 const getPlaces = (search)=>
 {
     var searchString = search.searchString;
@@ -316,7 +316,7 @@ var filters = {
     }
 }
 
-var searchString = "haifa resturant";
+var searchString = "haifa italian resturant";
 
 var search = {searchString: searchString, filters: filters}
 getPlaces(search)

@@ -1,8 +1,135 @@
-<br><br>
-<div class="search_string_container">
-    <mat-form-field class="search_string">
-        <mat-label>Search</mat-label>
-        <input matInput placeholder="Ex. Haifa Resturants" [(ngModel)]="searchString" type="search">
-    </mat-form-field>
+<div class="spinner-container" *ngIf="isSearching">
+    <mat-progress-spinner class="spinner" color="accent" mode="indeterminate"> </mat-progress-spinner>
 </div>
+<div class="maps-container">
+    <div class="searching-container">
+        <div class="search_string_container">
+            <div class="wrapper-search-string">
+                <mat-form-field class="search_string">
+                    <mat-label>Search</mat-label>
+                    <input matInput placeholder="Haifa restaurants" [(ngModel)]="searchString" type="search"
+                        class="text">
+                </mat-form-field>
+                <div *ngIf="errorSearchString && !this.valid" class="error">{{errorSearchString}}</div>
+            </div>
+            <div class="wrapper-btn">
+                <button class="search-btn" mat-button type="submit" (click)="getPlaces()">Search</button>
+                <button class="search-btn" mat-button type="submit" (click)="clearForm()">clear form</button>
+            </div>
+        </div>
+        <div class="filtering-rating">
+            <div class="title-rating header">Choose your preference rating</div>
+            <div *ngIf="errorRating && !this.valid" class="error">{{errorRating}}</div>
+            <div class="select-container">
+                <div class="select-wrapper">
+                    <!-- <div class="from">From</div> -->
+                    <mat-form-field appearance="fill" class="box-select">
+                        <mat-label class="select-label">From</mat-label>
+                        <mat-select [(value)]="from" class="select-label">
+                            <mat-option *ngFor="let index of rating_Values" value="{{index}}">{{index}}</mat-option>
+                        </mat-select>
+                    </mat-form-field>
+                    <!-- <section class="example-section">
+                        <mat-checkbox class="from" [(ngModel)]="minimum_amount_of_ratings">Choose minimum amount of
+                            rating</mat-checkbox>
+                    </section> -->
+                </div>
+                <div class="select-wrapper-to">
+                    <!-- <div class="from">To</div> -->
+                    <mat-form-field class="box-select" appearance="fill">
+                        <mat-label class="select-label">To</mat-label>
+                        <mat-select class="select-label" [(value)]="to">
+                            <mat-option *ngFor="let index of rating_Values" value="{{index}}">{{index}}</mat-option>
+                        </mat-select>
+                    </mat-form-field>
+                </div>
+            </div>
+        </div>
+        <div class="filtering-opening-hours">
+            <div class="title-rating header">Choose your preference opening hours</div>
+            <div *ngIf="errorOpeningHours && !this.valid" class="error">{{errorOpeningHours}}</div>
 
+            <div class="select-container day">
+                <mat-form-field class="box-select" appearance="fill">
+                    <mat-label class="select-label">Day</mat-label>
+                    <mat-select class="select-label" [(value)]="day">
+                        <mat-option *ngFor="let day of week; index as i" value="{{i}}">{{day}}</mat-option>
+                    </mat-select>
+                </mat-form-field>
+            </div>
+            <div class="title-rating">From</div>
+
+            <div class="time-from">
+                <div class="select-container">
+                    <mat-form-field class="box-select" appearance="fill">
+                        <mat-label class="select-label">Hour</mat-label>
+                        <mat-select class="select-label" [(value)]="timeFrom.hours">
+                            <mat-option *ngFor="let hrs of hours" value="{{hrs}}">{{hrs}}</mat-option>
+                        </mat-select>
+                    </mat-form-field>
+                </div>
+                <div class="colon"> : </div>
+                <div class="select-container">
+                    <mat-form-field class="box-select" appearance="fill">
+                        <mat-label class="select-label">Min</mat-label>
+                        <mat-select class="select-label" [(value)]="timeFrom.minutes">
+                            <mat-option *ngFor="let min of minutes;" value="{{min}}">{{min}}</mat-option>
+                        </mat-select>
+                    </mat-form-field>
+                </div>
+            </div>
+
+            <div class="title-rating">To</div>
+
+            <div class="time-from">
+                <div class="select-container">
+                    <mat-form-field class="box-select" appearance="fill">
+                        <mat-label class="select-label">Hour</mat-label>
+                        <mat-select class="select-label" [(value)]="timeTo.hours">
+                            <mat-option *ngFor="let hrs of hours" value="{{hrs}}">{{hrs}}</mat-option>
+                        </mat-select>
+                    </mat-form-field>
+                </div>
+                <div class="colon"> : </div>
+                <div class="select-container">
+                    <mat-form-field class="box-select" appearance="fill">
+                        <mat-label class="select-label">Min</mat-label>
+                        <mat-select class="select-label" [(value)]="timeTo.minutes">
+                            <mat-option *ngFor="let min of minutes" value="{{min}}">{{min}}</mat-option>
+                        </mat-select>
+                    </mat-form-field>
+                </div>
+            </div>
+
+        </div>
+
+        <div class=review>
+            <div class="title-rating header"> Choose the amount of minimum reviews that you want it will be on places
+            </div>
+            <mat-form-field class="search_reviews">
+                <mat-label>Review</mat-label>
+                <input matInput placeholder="Ex. 1000" type="number" min="0" [(ngModel)]="numberOfReviews" class="text">
+            </mat-form-field>
+        </div>
+
+    </div>
+
+    <div class="map">
+        <div #mapContainer id="map"></div>
+    </div>
+</div>
+<div class="places-container">
+
+    <div class="place wrapper" *ngFor="let place of places ;index as i;">
+        <div (click)="savedPlace(i)" class="{{user_saves_place[i]? 'place-img saved': 'place-img'}}"></div>
+        <div class="wrapper-rating">
+            <div class="name">{{place.name}}</div>
+            <div class="rating">{{place.rating}}</div>
+        </div>
+        <div class="address">{{place.address}}</div>
+            <a class="website" *ngIf="place.website_url" href="{{place.website_url}}">{{place.website_url}}</a>
+        <div class="review">Amount if reviews : {{place.amount_of_ratings}}</div>
+    </div>
+
+
+</div>
