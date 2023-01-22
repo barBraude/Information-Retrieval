@@ -4,6 +4,7 @@ This project is part of Information Retrieval course.
 We build crawler to google  maps from `google places api` to improve the searching in the website.
 We build 3 features that we didn't find answer to them in google maps website 
 
+![alt text](https://github.com/barBraude/Information-Retrieval/places/search.jpg)
 1. Filter the places with range of rating. For example rating between 3 - 4
 2. Filter the places with minimum amount of reviews that wrote on this place
 3. Filter the places with rang of opening hours. For example open Friday at 10:00 - 14:00
