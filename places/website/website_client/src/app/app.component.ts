@@ -4,6 +4,7 @@ import { Search, Filters, RatingRange, OpeningHours } from './models/search.mode
 import { Place } from './models/place.model';
 import { AfterViewInit, ViewChild, ElementRef } from
   '@angular/core';
+import { of } from 'rxjs';
 
 @Component({
   selector: 'app-root',
@@ -22,8 +23,8 @@ export class AppComponent implements OnInit {
   rating_Values = [0, 1, 2, 3, 4, 5]
   week = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
   day = -1
-  user_saves_place: boolean[] = Array.from({ length:8 }, () => false);
-  start=1
+  user_saves_place: boolean[] = Array.from({ length: 8 }, () => false);
+  start = 1
   // Array.from({ length: this.places.length }, () => false);
   errorRating: string = "";
   errorOpeningHours = "";
@@ -55,7 +56,7 @@ export class AppComponent implements OnInit {
   };
   markers = []
   numberOfReviews = 0
-  
+
 
   constructor(public backendService: backendService) {
 
@@ -107,23 +108,25 @@ export class AppComponent implements OnInit {
 
 
   getPlaces() {
-    console.log("getPlaces", this.from, this.to);
+    this.markers = []
     this.isSearching = true;
     this.errorSearchString = '';
     var search: Search = { searchString: this.searchString, filters: {} };
 
-    this.valid = this.filterRating(search);
-    this.valid = this.filterOpeningHours(search);
+    let valid_rate = this.filterRating(search);
+    let open_hrs = this.filterOpeningHours(search);
+
     this.filterReviews(search);
-    console.log(this.valid);
-    if(!this.searchString){
-      this.errorSearchString= 'Please enter a search string'
-      this.valid = false;
+    let search_string = true
+
+    if (!this.searchString) {
+      this.errorSearchString = 'Please enter a search string'
+      search_string = false;
       this.isSearching = false;
     }
+    this.valid = valid_rate && open_hrs && search_string
     if (this.valid) {
 
-      console.log(search);
       this.backendService.getPlaces(search).subscribe((data) => {
         this.places = data.places;
         this.places.sort((a, b) => b.rating - a.rating);
@@ -135,8 +138,9 @@ export class AppComponent implements OnInit {
         this.places.forEach(place => {
           this.createMarkerArray(place);
         })
+        console.log(this.markers);
         this.loadAllMarkers()
-        console.log(this.places);
+        console.log(this.markers);
 
       }, (err) => {
         window.alert(err.message);
@@ -165,14 +169,16 @@ export class AppComponent implements OnInit {
   }
 
   filterOpeningHours(searchObj: Search) {
-    if (this.timeFrom.hours > this.timeTo.hours) {
-      this.errorOpeningHours = "Please fill all opening hours fields";
-      return false;
-    }
-    this.errorOpeningHours = ''
-    if (this.day != -1 && this.timeFrom.hours != -1 && this.timeFrom.minutes != -1 && this.timeTo.hours != -1 && this.timeTo.minutes != -1) {
+    // if (this.timeFrom.hours > this.timeTo.hours) {
+    //   console.log( "if",this.timeFrom.hours  > this.timeTo.hours);
 
-      let openingHours: OpeningHours = { day: this.day, from: this.timeFrom.hours.toString() + this.timeFrom.minutes, to: this.timeTo.hours.toString() + "" + this.timeTo.minutes };
+    //   this.errorOpeningHours = "Please fill all opening hours fields";
+    //   return false;
+    // }
+    if (this.day != -1 && this.timeFrom.hours != -1 && this.timeFrom.minutes != -1 && this.timeTo.hours != -1 && this.timeTo.minutes != -1) {
+      let hoursFrom = this.timeFrom.hours < 10 ? "0" + this.timeFrom.hours : this.timeFrom.hours;
+      let hoursTo = this.timeTo.hours < 10 ? "0" + this.timeTo.hours : this.timeTo.hours;
+      let openingHours: OpeningHours = { day: this.day, from: hoursFrom.toString() + this.timeFrom.minutes, to: hoursTo.toString() + this.timeTo.minutes };
       searchObj.filters.opening_hours = openingHours;
       return true;
     }
@@ -210,6 +216,9 @@ export class AppComponent implements OnInit {
     this.timeTo.hours = -1;
     this.timeTo.minutes = -1;
     this.numberOfReviews = 0;
+    this.errorOpeningHours = '';
+    this.errorRating = '';
+    this.errorSearchString = '';
   }
 
 
