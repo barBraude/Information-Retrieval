@@ -20,7 +20,7 @@ export class AppComponent implements OnInit {
   isSearching: boolean = false;
   from = -1;
   to = -1;
-  rating_Values = [0, 1, 2, 3, 4, 5]
+  rating_Values = [0, 1, 2, 2.5, 3, 3.5, 4, 4.5, 5]
   week = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
   day = -1
   user_saves_place: boolean[] = Array.from({ length: 8 }, () => false);

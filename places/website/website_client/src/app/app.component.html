@@ -104,7 +104,7 @@
         </div>
 
         <div class=review>
-            <div class="title-rating header"> Choose the amount of minimum reviews that you want it will be on places
+            <div class="title-rating header"> Choose the amount of minimum ratings that you want it will be on places
             </div>
             <mat-form-field class="search_reviews">
                 <mat-label>Review</mat-label>
@@ -128,7 +128,7 @@
         </div>
         <div class="address">{{place.address}}</div>
             <a class="website" *ngIf="place.website_url" href="{{place.website_url}}">{{place.website_url}}</a>
-        <div class="review">Amount if reviews : {{place.amount_of_ratings}}</div>
+        <div class="review">Amount of people that rate this place: {{place.amount_of_ratings}}</div>
     </div>
 
 
